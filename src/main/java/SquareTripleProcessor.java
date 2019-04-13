@@ -9,5 +9,5 @@ public class SquareTripleProcessor {
         else if(rootArray.length == 1)return rootArray[0];
         else return Math.max(rootArray[0],rootArray[1]);
     }
-
+//комментарий
 }
